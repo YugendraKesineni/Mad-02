@@ -1,0 +1,42 @@
+Basic Arrays
+
+Mixed type
+    Access elements
+    length
+    holes in an Array
+    Iteration in an Array. 
+
+
+Iterable Objects
+    Array
+    String
+    Map
+    Set
+    Browser DOM - tree structure
+
+Helper functions
+
+
+Functions that take functions as an input
+    Map
+    Filter 
+    find
+
+Callbacks
+
+Other Collections in JS
+    Maps
+    WeakMaps
+    sets
+
+    Use only if necessary
+
+Destructuring
+    Split an array into multiple values
+    Easy to pass and collect arguments
+
+Generators
+    Functions that yield values one at a time
+    Computed variables
+    Dynamically generated iterators
+
